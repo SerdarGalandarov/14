@@ -25,6 +25,11 @@
 
 <body <?php body_class(); ?>>
 
+	<div class="testdiv">Test text</div>
+	<div class="smilepng">
+		<img src="https://avatanplus.com/files/resources/original/59baa8af8e37e15e8122eddf.png">
+	</div>
+
 <div class="site-wrapper">
 
 	<header class="site-header">

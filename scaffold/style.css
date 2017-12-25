@@ -268,7 +268,7 @@ th {
 --------------------------------------------------------------*/
 
 body {
-	color: #303135;
+	color: orange;
 	font-family: Georgia;
 	font-size: 16px;
 	line-height: 1.6;
@@ -1251,4 +1251,12 @@ object {
 	.site-info {
 		padding: 0 20px;
 	}
+}
+
+.smilepng {
+	text-align: center;
+}
+
+.testdiv {
+	margin: 100px;
 }
